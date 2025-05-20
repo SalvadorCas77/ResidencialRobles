@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ResidencialRobles/static/css/main.4c32f8d9.css",
-    "main.js": "/ResidencialRobles/static/js/main.c922a302.js",
+    "main.css": "/ResidencialRobles/static/css/main.463357e6.css",
+    "main.js": "/ResidencialRobles/static/js/main.9fd88f21.js",
     "static/js/453.0ab30ace.chunk.js": "/ResidencialRobles/static/js/453.0ab30ace.chunk.js",
     "static/media/fondo_residencial.jpg": "/ResidencialRobles/static/media/fondo_residencial.f61fe858fcaf117d78c7.jpg",
     "static/media/Logo_residencial.png": "/ResidencialRobles/static/media/Logo_residencial.116b337161971498a261.png",
     "index.html": "/ResidencialRobles/index.html",
-    "main.4c32f8d9.css.map": "/ResidencialRobles/static/css/main.4c32f8d9.css.map",
-    "main.c922a302.js.map": "/ResidencialRobles/static/js/main.c922a302.js.map",
+    "main.463357e6.css.map": "/ResidencialRobles/static/css/main.463357e6.css.map",
+    "main.9fd88f21.js.map": "/ResidencialRobles/static/js/main.9fd88f21.js.map",
     "453.0ab30ace.chunk.js.map": "/ResidencialRobles/static/js/453.0ab30ace.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c32f8d9.css",
-    "static/js/main.c922a302.js"
+    "static/css/main.463357e6.css",
+    "static/js/main.9fd88f21.js"
   ]
 }
