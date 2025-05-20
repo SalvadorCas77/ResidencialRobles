@@ -16,7 +16,7 @@ function App() {
   
   return (
         <div className="App">
-          {location.pathname !== '/' && (
+          {!['/', '/ResidencialRobles'].includes(location.pathname) && (
         <>
           <div className="logo-fixed">
             <img src={logoResidencial} alt="Logo Residencial" />

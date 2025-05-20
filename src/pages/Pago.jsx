@@ -1,9 +1,18 @@
 import React from 'react';
- function Pago() {
+import { useNavigate } from 'react-router-dom';
+
+function Pago() {
+  const navigate = useNavigate();
+
+  const handleSubmit = (e) => {
+    e.preventDefault(); // evitar recarga de página
+    navigate('/Portada'); // redirigir a portada
+  };
+
   return (
     <div>
       <h4>Página de Pagos</h4>
-      <form>
+      <form onSubmit={handleSubmit}>
         <label>Nombre:</label>
         <input type="text" />
         <br />
@@ -16,7 +25,7 @@ import React from 'react';
         <label>Mes a pagar:</label>
         <input type="text" />
         <br />
-        <button>Forma de pago</button>
+        <button type="submit">Forma de pago</button>
       </form>
     </div>
   );

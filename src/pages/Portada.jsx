@@ -5,6 +5,7 @@ function Portada() {
       <h2>Bienvenido a Residencial Robles</h2>
       
     </div>
+    
   );
 }
 

@@ -90,18 +90,18 @@ li{
     font-size: 30px;
     font-weight: 800;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 10px;
+    margin: 5px;
     align-items: center;
 
 
 }
 /* Estilo para los textos principales */
 h1, h2, h3 {
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 1.5px;
   color: #f5f3f4; /*  */
   text-shadow: 1px 1px 3px rgba(17, 4, 134, 0.7);
-  font-size: 120px;
+  font-size: 100px;
 }
 h4 {
   font-weight: 700;
@@ -124,7 +124,7 @@ input {
   display: block;
   width: 300px;
   padding: 5px;
-  margin: 0 auto 10px auto; /* Centra el input horizontalmente y separa abajo */
+  margin: 0 auto 5px auto; /* Centra el input horizontalmente y separa abajo */
   border: 2px solid #ff6700;
   border-radius: 5px;
   background-color: #fff;
@@ -153,8 +153,8 @@ button{
 }
 
 textarea {
-  width: 600px;
-  height: 300px;
+  width: 400px;
+  height: 100px;
   padding: 10px;
   font-size: 16px;
   border: 2px solid #ff6700;
